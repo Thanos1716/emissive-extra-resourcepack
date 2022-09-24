@@ -5,4 +5,4 @@ The modpack [Fabulously Optimized]() includes both of these mods out-of-the-box 
 The Optifine mod is not, and will never be supported but may work anyway. 
 Since I am not developing for it, use it at your own risk!
 ## Items
-![](screenshot/items.png)
+![](screenshots/items.png)
