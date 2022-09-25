@@ -1,6 +1,6 @@
 {
   "pack": {
-    "description": "You're glowing!",
-    "pack_format": 9
+    "pack_format": 9,
+    "description": "You're glowing! §c<ee,eb,ei> §a{CC0}\n§6Created by: §eThanos"
   }
 }
