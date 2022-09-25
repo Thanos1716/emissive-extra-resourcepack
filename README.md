@@ -11,7 +11,7 @@ Since I am not developing for it, use it at your own risk!
 
 ## Blocks
 
-![](screenshots/blocks-dark)
-![](screenshots/blocks-lowlight)
-![](screenshots/blocks-bright)
-![](screenshots/blocks-shaders)
+![](screenshots/blocks-dark.png)
+![](screenshots/blocks-lowlight.png)
+![](screenshots/blocks-bright.png)
+![](screenshots/blocks-shaders.png)
