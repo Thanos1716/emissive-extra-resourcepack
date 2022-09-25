@@ -5,6 +5,13 @@ The modpack [Fabulously Optimized]() includes both of these mods out-of-the-box 
 The Optifine mod is not, and will never be supported but may work anyway. 
 Since I am not developing for it, use it at your own risk!
 ## Items
-![](screenshots/bright-items.png)
-![](screenshots/lowlight-items.png)
-![](screenshots/dark-items.png)
+![](screenshots/items-dark.png)
+![](screenshots/items-lowlight.png)
+![](screenshots/items-bright.png)
+
+## Blocks
+
+![](screenshots/blocks-dark)
+![](screenshots/blocks-lowlight)
+![](screenshots/blocks-bright)
+![](screenshots/blocks-shaders)
